@@ -206,7 +206,7 @@ ceval                                           -          naive_average  gen   
 02/21 16:40:03 - OpenCompass - INFO - write csv to /root/opencompass/outputs/default/20240221_155549/summary/summary_20240221_155549.csv
 ```
 
-![pic1](asserts/img.png)
+![pic1](asserts/img1.png)
 
 
 
